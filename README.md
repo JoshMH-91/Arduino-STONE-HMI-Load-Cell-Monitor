@@ -1,0 +1,1 @@
+# ESP32-STONE-HMI-Load-Cell-Monitor
