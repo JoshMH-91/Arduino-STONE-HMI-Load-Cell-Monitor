@@ -1,4 +1,4 @@
-# ESP32-STONE-HMI-Load-Cell-Monitor
+# Arduino-STONE-HMI-Load-Cell-Monitor
 
 🚧 Project under construction coming soon!
 <br/><br/>
